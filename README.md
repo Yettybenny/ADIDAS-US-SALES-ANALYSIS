@@ -8,6 +8,17 @@
 
 The goal was to provide a comprehensive overview of sales performance across product categories, regions, and time periods. 
 
+
+![Screenshot (143)](https://github.com/user-attachments/assets/a87601d7-a59d-443e-ab70-67dc3c85e1bb)
+
+![Screenshot (144)](https://github.com/user-attachments/assets/f6b8fccd-e610-4d25-8d0f-adfe041b5a5c)
+
+
+![Screenshot (145)](https://github.com/user-attachments/assets/472a5e8d-2299-40b6-bacf-fc1fededb128)
+
+
+![Screenshot (146)](https://github.com/user-attachments/assets/ce61e023-1f7a-4240-ae7d-1e15631a2449)
+
 ### Process Workflow 
 
 A standout feature of the dashboard is the use of tooltips, which allow users to hover over specific data points and instantly access additional insights, enhancing understanding of sales trends, customer preferences, and product performance.
