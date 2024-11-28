@@ -38,4 +38,4 @@ These tooltips provide:
 
 - Regional breakdowns, showing where sales are the strongest.
 
-Explore the dashboard here: []
+Explore the dashboard here: [https://app.powerbi.com/view?r=eyJrIjoiMWE3YTNjZDQtYjJiZC00MGQ2LWI2NGUtODJmMzdjMTZjMWY1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9]
